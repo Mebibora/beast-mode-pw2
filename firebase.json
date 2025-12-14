@@ -1,0 +1,5 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+"flutter":{"platforms":{"android":{"default":{"projectId":"beast-mode-pw2","appId":"1:389393431644:android:ba078db56948c5cf51ba99","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"beast-mode-pw2","configurations":{"android":"1:389393431644:android:ba078db56948c5cf51ba99","ios":"1:389393431644:ios:911ce20a1c3861a551ba99","web":"1:389393431644:web:3a06ca2db93bf17f51ba99"}}}}}}
